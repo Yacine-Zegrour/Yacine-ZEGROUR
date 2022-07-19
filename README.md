@@ -1,16 +1,13 @@
-### Hi there 👋
+😎 Hello, i'm Yacine !
+I am a french software architect student who loves to program things on his computer. I program a lot on my time in Java.
 
-<!--
-**Yacine-Zegrour/Yacine-ZEGROUR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📞 Need to contact me?
+If you need to contact me for a question, a proposal or an offer, you can do it through my networks:
 
-Here are some ideas to get you started:
+*Discord
+*Mail
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Although I am very sociable, please do not contact me just to ask me a question about help or just to say hello.
+
+🦅 Badges & Stats
+https://wakatime.com/badge/user/5628a1ea-e444-4f23-acc3-fce00d0543e9.svg
