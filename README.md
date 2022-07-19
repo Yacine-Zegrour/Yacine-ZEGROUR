@@ -5,6 +5,7 @@ I am a french software architect student who loves to program things on his comp
 If you need to contact me for a question, a proposal or an offer, you can do it through my networks:
 
 *Discord
+
 *Mail
 
 Although I am very sociable, please do not contact me just to ask me a question about help or just to say hello.
