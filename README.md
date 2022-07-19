@@ -7,7 +7,11 @@ If you need to contact me for a question, a proposal or an offer, you can do it 
 *Discord
 
 *Mail
+* Une puce
 
+* Une autre puce
+
+* Et encore une autre puce !
 Although I am very sociable, please do not contact me just to ask me a question about help or just to say hello.
 
 🦅 Badges & Stats
